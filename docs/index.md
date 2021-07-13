@@ -46,7 +46,7 @@ __E-Hunter Tecnologia – Brazil__ / IT Service Desk Analyst, Niterói, RJ, Braz
 ## Service and Work History
 
 `2010-2012`
-__Service Missionary__, Northern Brazil
+__Proselitism Missionary__, Northern Brazil
 
 
 
