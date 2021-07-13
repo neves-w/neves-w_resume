@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: myResume
 ---
 # Wanderson Neves
@@ -46,9 +46,7 @@ __E-Hunter Tecnologia – Brazil__ / IT Service Desk Analyst, Niterói, RJ, Braz
 ## Service and Work History
 
 `2010-2012`
-
-__Proselitism Missionary__, Northern Brazil
-
+__Service Missionary__, Northern Brazil
 
 
 
