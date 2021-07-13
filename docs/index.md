@@ -1,84 +1,52 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: myResume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
+# Wanderson Neves
+Aspiring Data Scientist
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="wneves@byui.edu">wneves@byui.edu</a>
+| (208)380-4403
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.85 Major GPA / Full-academic scholarship
 
+## Skills
 
-## Related Experience
+- Data Analysis with Python (pandas and numpy libraries)
+-	Solid SQL knowledge / experience with MySQL databases, using both IDEs and CLI
+-	Solid grasp of statistics and probability fundamentals
+-	Familiarity with working with shared code using GitHub.
+-	Familiarity with best practices of code writing and review according to international conventions.
+-	Solid written and oral communication
+-	Microsoft Office tools, especially Excel and Word
+-	Attention to detail and solid troubleshooting skills
 
-### Internships
+## Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`June 2020 - present`
+__Brigham Young University – Idaho__ / IT Service Desk Analyst, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Receive calls and answer emails and IT tickets from students, faculty and employees and help them solve the technology issues they are having or escalate the issue to other teams within the IT office. Involves great communication skills, both spoken and written, troubleshooting and problem-solving skills.
 
-### Data Science Lead
+`May 2017 - September 2017`
+__E-Hunter Tecnologia – Brazil__ / IT Service Desk Analyst, Niterói, RJ, Brazil
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- -	Receive calls customers and help them solve the technology issues related to the company’s software they are having or escalate the issue to superiors. Involved great communication skills, both spoken and written, troubleshooting and problem-solving skills and ability to work in a fast-paced environment. Would also answer emails from users and solve their issues with access to the company’s database.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2010-2012`
+__Service Missionary__, Northern Brazil
 
 
 
